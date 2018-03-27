@@ -5,7 +5,7 @@
   <artifactId>spring-boot-fastdfs</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>spring-boot-fastdfs Maven Webapp</name>
+  <name>spring-boot-fastdfs</name>
   <url>http://maven.apache.org</url>
   
   <properties>

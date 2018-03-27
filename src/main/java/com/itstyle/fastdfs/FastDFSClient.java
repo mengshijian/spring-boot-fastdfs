@@ -24,6 +24,7 @@ import org.csource.fastdfs.TrackerServer;
 public class FastDFSClient{
 	
 	//private static final String CONFIG_FILENAME = "src/main/resources/fdfs_client.conf";
+    //自行定义
 	private static final String CONFIG_FILENAME = "D:\\ACTS\\acts_market\\src\\main\\resources\\fdfs_client.conf";
 	private static final String GROUP_NAME = "market1";
 	private TrackerClient trackerClient = null;
